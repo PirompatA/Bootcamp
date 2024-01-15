@@ -1,1 +1,1 @@
-This is iphone price xxx;
+This is iphone price 500;
